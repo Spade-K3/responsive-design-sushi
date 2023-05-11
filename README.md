@@ -8,5 +8,3 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 ![preview img](/preview.png)
-
-My Skype ID: live:.cid.53452152f256592b
